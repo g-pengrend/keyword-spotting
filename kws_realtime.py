@@ -18,7 +18,7 @@ from functions_online import OverlapHandler, load_model_layers, open_mic, get_sa
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
-
+# Hello this is cool
 # ==============================================================
 # ==============================================================
 # KEYWORD SPOTTING - ONLINE IMPLEMENTATION
